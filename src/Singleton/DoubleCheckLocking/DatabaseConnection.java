@@ -11,6 +11,7 @@ public class DatabaseConnection {
                 if (instance == null) {
                     instance = new DatabaseConnection();
                     System.out.println("Added something in Singleton file");
+                    System.out.println("Added something else");
                 }
             }
         }

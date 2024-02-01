@@ -44,5 +44,6 @@ public class DemoOnComparable {
         }
 
         System.out.println("Git demo in class 1st Feb 2024");
+        System.out.println("Git demo 2");
     }
 }
