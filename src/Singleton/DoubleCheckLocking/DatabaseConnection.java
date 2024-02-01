@@ -10,6 +10,7 @@ public class DatabaseConnection {
             synchronized (DatabaseConnection.class) {
                 if (instance == null) {
                     instance = new DatabaseConnection();
+                    System.out.println("Added something in Singleton file");
                 }
             }
         }
