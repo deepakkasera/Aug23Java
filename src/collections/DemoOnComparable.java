@@ -42,5 +42,7 @@ public class DemoOnComparable {
         while (!priorityQueue.isEmpty()) {
             System.out.print(priorityQueue.poll());
         }
+
+        System.out.println("Git demo in class 1st Feb 2024");
     }
 }
